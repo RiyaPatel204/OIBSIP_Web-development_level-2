@@ -34,7 +34,7 @@ Example:
 The result is a fully functional and responsive work.
 
 ### Connect:
-LinkedIn Post: 
+LinkedIn Post: https://www.linkedin.com/in/riya-patel-9054ab322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 Github Repository: https://github.com/RiyaPatel204/OIBSIP_Web-development_level-2
 
 
